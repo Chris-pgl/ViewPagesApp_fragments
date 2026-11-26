@@ -40,5 +40,11 @@ class MyViewPageAdapter(fragmentManager: FragmentManager, lifecycle: Lifecycle) 
        return 3
     }
 
+    /*
+    fun addFragment(fragment: Fragment) {
+        //fragmentList.add(fragment)
+    }
+    */
+
 
 }
